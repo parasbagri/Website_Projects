@@ -16,7 +16,7 @@ This course is designed to provide hands-on experience and practical examples to
 
 ## Introduction
 
-Get ready to dive into the world of web development with this comprehensive course. Whether you are a beginner or looking to sharpen your skills, these projects will help you apply your knowledge in a practical manner.
+Get ready to dive into the world of web development with this comprehensive course. Whether you are a beginner or looking to sharpen your skills, these projects will help you practically apply your knowledge.
 
 ## Projects
 
@@ -34,16 +34,9 @@ Feel free to navigate through the project folders to find the specific project y
 
 Follow these steps to get started:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/parasbagri/Website_Projects.git`
 2. Navigate to the project folder of your choice: `cd project-name`
 3. Open the `index.html` file in your preferred web browser.
 
-## Contributing
-
-If you'd like to contribute to this course by adding more projects or improving existing ones, please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This course is licensed under the [MIT License](LICENSE).
-
+ 
 
